@@ -6,7 +6,7 @@
 			<include name="*.jar"/>
 		</fileset>
 	</path>
-	
+<!-- this is test for poll scm -->	
 	<target name="init">
 		<mkdir dir="build/classes"/>
 		<mkdir dir="dist"/>
